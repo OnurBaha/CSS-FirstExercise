@@ -1,0 +1,43 @@
+ body {
+    background-color:#DDDDDD;
+    text-align: center;
+    font-family: sans-serif;
+ }
+ #main-title {
+     color:rgb(0, 40, 151);
+ }
+ h2 {
+     color:rgb(118, 16, 212);
+ }
+ h3,h4 {
+     color:crimson;
+ }
+ ul{
+     list-style-position: inside;
+ }
+ img{
+     width: 350px;
+ }
+ .text-left{
+     text-align: left;
+ }
+ .resim-1ve2{
+    background-color: goldenrod;
+ }
+ .heykel-1ve2{
+     background-color: orangered;
+ }
+ .seramik-1ve2{
+     background-color: red;
+ }
+ .özgün-1ve2{
+     background-color: rgb(134, 16, 16);
+ }
+ .text-center{
+     text-align: center;
+ }
+ figcaption{
+     font-size:20px;
+     color:rgb(255, 255, 255);
+ }
+
